@@ -4,7 +4,7 @@ interface ExperienceData {
     company: string;
     position: string;
     desc: string;
-    skill: [string];
+    skill: string[];
 }
 interface ExperienceProps {
     data: ExperienceData[];

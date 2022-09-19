@@ -1,4 +1,4 @@
-const IntroduceSection = ({ data }: string) => {
+const IntroduceSection = ({ data }: any) => {
     return (
         <section className="inner">
             <h2 id="section0" className="boder">Introduce</h2>

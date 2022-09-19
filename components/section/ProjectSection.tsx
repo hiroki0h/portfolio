@@ -3,10 +3,10 @@ import Link from 'next/link';
 interface ProjectData {
     name: string;
     date: string;
-    desc: [string];
+    desc: string[];
     member: string;
     result: string;
-    stack: [string];
+    stack: string[];
 }
 interface ProjectProps {
     data: ProjectData[];
