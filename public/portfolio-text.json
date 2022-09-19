@@ -1,0 +1,192 @@
+{
+  "title": [
+    "Introduce",
+    "Experience",
+    "Project"
+  ],
+  "introduce": "안녕하세요. <strong>최재연</strong>입니다.<strong>\uD83D\uDC4B</strong><br/>새로운 기술들을 사용해보는 것을 좋아합니다.<br/>지속 가능한 개발자를 희망하고,<br/>효율적이고 읽기 쉬운 코드를 작성하고자 노력합니다.",
+
+
+  "experience": [
+    {
+      "date": "2022.01 - 2022.03",
+      "period": "3개월",
+      "company": "(사)한국건축물해체기술연구원",
+      "position": "프리랜서",
+      "desc": "자사 웹사이트 제작 및 유지 보수",
+      "skill": [
+        "React", "scss", "SEO", "반응형웹"
+      ]
+    },
+    {
+      "date": "2021.06 - 2021.11",
+      "period": "6개월",
+      "company": "(주)에프아이에스랩",
+      "position": "디지털플랫폼 2팀 / 프리랜서",
+      "desc": "웹사이트 이관 중 발견되는 이슈 개선 및 해결",
+      "skill": [
+        "HTML5", "CSS3", "scss", "jQuery", "Javascript", "Adobe Experience Manager", "SEO", "Jira", "Confluence"
+      ]
+    },
+    {
+      "date": "2018.03 - 2021.02",
+      "period": "3년",
+      "company": "(주)비트리",
+      "position": "개발팀 / 매니저",
+      "desc": "기존 서비스 유지 보수 및 신규 웹서비스 개발",
+      "skill": [
+        "HTML5", "CSS3", "scss", "jQuery", "Javascript", "WordPress", "고도몰", "SEO", "웹표준", "반응형웹", "웹접근성", "React", "Next.js", "Adobe Experience Manager", "Google Analytics"
+      ]
+    }
+  ],
+  "project": [
+    {
+      "name": "(사)한국건축물해체기술연구원 웹 사이트 제작 및 유지보수",
+      "date": "2022.01 - 2022.03",
+      "desc": [
+        "자사 웹사이트 기획, 디자인, 제작"
+      ],
+      "member": "프론트엔드 1명 / 백엔드 1명",
+      "result": "https://www.kbdt.re.kr/",
+      "stack": [
+        "SEO", "React", "scss"
+      ]
+    },
+    {
+      "name": "2021 삼성닷컴 P6 B2B 글로벌롤아웃 Outsourcing 프로젝트",
+      "date": "2021.06 - 2021.11",
+      "desc": [
+        "삼성닷컴 B2B 페이지 P6버전으로 이관 중 발견되는 HTML, CSS, Javascript 이슈 개선 및 해결"
+      ],
+      "member": "프론트엔드 3명",
+      "result": "https://www.samsung.com/",
+      "stack": [
+        "AEM", "Javascript", "Jira", "Confluence"
+      ]
+    },
+    {
+      "name": "삼성전자 무선사업부 VR 플랫폼",
+      "date": "2021.01 - 2021.02",
+      "desc": [
+        "삼성전자 무선사업부의 신제품 정보 VR 플랫폼.",
+        "보안이 강화된 가상의 VR Press Room에서 보도자료를 열람 가능하도록 구축.",
+        "kr pano를 이용한 VR 페이지 제작."
+      ],
+      "member": "프론트엔드 3명",
+      "result": "",
+      "stack": [
+        "kr pano"
+      ]
+    },
+    {
+      "name": "Samsung.com",
+      "date": "2020.03 - 2020.10",
+      "desc": [
+        "각 국가 별 페이지 이슈에 맞춰 문제 해결 및 AEM운영과 관리."
+      ],
+      "member": "프론트엔드 7명 / 파견업무팀 리더",
+      "result": "https://www.samsung.com/",
+      "stack": [
+        "AEM", "jQuery"
+      ]
+    },
+    {
+      "name": "HelloBell website",
+      "date": "2020.03 - 2020.10",
+      "desc": [
+        "QR code와 NFC등을 사용하는 스마트 호출벨 플랫폼인 헬로벨의 웹사이트를 구축."
+      ],
+      "member": "프론트엔드 4명 / About & FAQ 페이지 제작",
+      "result": "http://www.hellobell.net/",
+      "stack": [
+        "Next", "scss", "i18next", "redux-saga", "SEO", "Google Analytics"
+      ]
+    },
+    {
+      "name": "Samsung Galaxy Note10 Unpacked microsite",
+      "date": "2019.07 - 2019.10",
+      "desc": [
+        "삼성 갤럭시 노트10의 언팩 보도자료 배포를 위한 사이트 제작 및 운영.",
+        "AJAX 개발, CDN을 활용한 이미지, 소스 코드 최적화 작업으로 페이지 로딩 속도개선."
+      ],
+      "member": "프론트엔드 3명 / Image & Videos 페이지 제작",
+      "result": "https://www.samsungmobilepress.com/galaxynote10",
+      "stack": [
+        "scss", "SEO", "Google Analytics"
+      ]
+    },
+    {
+      "name": "유한킴벌리 헬스케어 웹사이트 및 모바일사이트",
+      "date": "2019.05 - 2020.10",
+      "desc": [
+        "새 창을 열지 않고 콘텐츠를 탐색 할 수 있는 구조로  AJAX 개발."
+      ],
+      "member": "프론트엔드 2명",
+      "result": "http://www.ykhealthcare.com/index.html",
+      "stack": [
+        "SEO"
+      ]
+    },
+    {
+      "name": "DAWON 디자인 웹사이트 및 모바일사이트",
+      "date": "2019.01 - 2020.10",
+      "desc": [
+        "웹 & 모바일 사이트 국/영문 사이트 제작."
+      ],
+      "member": "프론트엔드 1명",
+      "result": "http://www.dawon.com/wkr/",
+      "stack": []
+    },
+    {
+      "name": "Posco Newsroom global / Korea",
+      "date": "2018.03 - 2021.02",
+      "desc": [
+        "워드프레스 기반의 검색엔진 최적화 된 반응형 웹사이트 유지보수.",
+        "웹 접근성을 갖춘 HTML 구조와 반응형 스타일, 사용자 인터렉션 위주의 자바스크립트를 담당"
+      ],
+      "member": "",
+      "result": "https://newsroom.posco.com/kr/",
+      "stack": [
+        "WordPress", "SEO", "웹접근성"
+      ]
+    },
+    {
+      "name": "Samsung Newsroom Global / Korea Renewal",
+      "date": "2018.03 - 2021.02",
+      "desc": [
+        "워드프레스 기반의 검색엔진 최적화 된 반응형 웹사이트.",
+        "Global(영문사이트)과 Korea(국문사이트) 포함 30개의 지법인 사이트 관리."
+      ],
+      "member": "",
+      "result": "https://news.samsung.com/kr/",
+      "stack": [
+        "WordPress","SEO"
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
